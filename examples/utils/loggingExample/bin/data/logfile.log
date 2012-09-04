@@ -1,0 +1,29 @@
+
+
+---------------------------------------  2012-09-01-18-08-24-370
+loggingChannelStuff: OF_LOG_VERBOSE: Logging to file now
+OF: OF_LOG_VERBOSE: Run time is 15 seconds
+OF: OF_LOG_NOTICE: 5s timer: Run time is 15 seconds
+OF: OF_LOG_VERBOSE: Run time is 16 seconds
+OF: OF_LOG_VERBOSE: Run time is 17 seconds
+OF: OF_LOG_VERBOSE: Run time is 18 seconds
+OF: OF_LOG_VERBOSE: Run time is 19 seconds
+OF: OF_LOG_VERBOSE: Run time is 20 seconds
+OF: OF_LOG_NOTICE: 5s timer: Run time is 20 seconds
+OF: OF_LOG_FATAL_ERROR: New log level is OF_LOG_NOTICE
+loggingChannelStuff: OF_LOG_VERBOSE: Switching to console logging
+
+
+---------------------------------------  2012-09-01-18-08-32-404
+loggingChannelStuff: OF_LOG_VERBOSE: Logging to file now
+OF: OF_LOG_VERBOSE: Run time is 23 seconds
+OF: OF_LOG_FATAL_ERROR: New log level is OF_LOG_NOTICE
+loggingChannelStuff: OF_LOG_VERBOSE: Switching to console logging
+
+
+---------------------------------------  2012-09-01-18-08-34-138
+loggingChannelStuff: OF_LOG_VERBOSE: Logging to file now
+OF: OF_LOG_VERBOSE: Run time is 25 seconds
+OF: OF_LOG_NOTICE: 5s timer: Run time is 25 seconds
+OF: OF_LOG_VERBOSE: Run time is 26 seconds
+OF: OF_LOG_VERBOSE: Run time is 27 seconds
